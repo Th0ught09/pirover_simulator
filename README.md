@@ -1,6 +1,8 @@
 # PiRover Simulator
 
-
+Pirover Simulator is a python based Simulator for the 4tronix Inition and Pi2Go Robots. These robots were intially used 
+as an engaging way to teach python to children, by allowing them to write programs to make the robot move. Since not all 
+schools have robots at hand and purchasing these would be expensive, this simulator was created.
 
 ## Install
 
